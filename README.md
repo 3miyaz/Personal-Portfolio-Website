@@ -1,3 +1,16 @@
+A personal portfolio website built using reactJs and styled components.
+
+1. When the collapsable window is closed:
+
+![prof](https://user-images.githubusercontent.com/46068633/154265443-5e7d84e1-d7e1-4a67-862f-ab34720af848.JPG)
+
+
+2. When the collapsable window is open:
+
+![profi2](https://user-images.githubusercontent.com/46068633/154265479-f1dac2d2-e0ac-40c9-922f-affa8df9542a.JPG)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
